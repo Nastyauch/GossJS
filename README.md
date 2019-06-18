@@ -29,3 +29,7 @@ Web-portfolio
 <a href="https://kodaktor.ru/403c07c_53b2e">TERN_001</a>
 <h4><a href="https://kodaktor.ru/jsin_001">Задание JSON_001</a></h4> <br>
 <a href="https://kodaktor.ru/403c07c_153f0">JSON_001</a>
+<h4><a href="https://kodaktor.ru/startask">Задание STARTASK</a></h4> <br>
+<a href="https://kodaktor.ru/startask_832d0">STARTASK</a>
+<h4><a href="https://kodaktor.ru/g/ips_task">Задание IPS_TASK</a></h4> <br>
+<a href="https://kodaktor.ru/startask_bbb1e">IPS_TASK</a>
