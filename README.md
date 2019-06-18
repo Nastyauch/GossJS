@@ -22,4 +22,10 @@ Web-portfolio
 <h4><a href="https://kodaktor.ru/func_009">Задание FUNC_009</a></h4> <br>
 <a href="https://kodaktor.ru/func_3b5a8">FUNC_009</a>
 <h4><a href="https://kodaktor.ru/func_010">Задание FUNC_010</a></h4> <br>
-<a href="https://kodaktor.ru/func_bb921">FUNC_009</a>
+<a href="https://kodaktor.ru/func_bb921">FUNC_010</a>
+<h4><a href="https://kodaktor.ru/g/xml_intro">Задание XML_001 and XML_002</a></h4> <br>
+<a href="https://github.com/Nastyauch/lab_goss/tree/master/xml">XML_001 and XML_002</a>
+<h4><a href="https://kodaktor.ru/tern_001">Задание TERN_001</a></h4> <br>
+<a href="https://kodaktor.ru/403c07c_53b2e">TERN_001</a>
+<h4><a href="https://kodaktor.ru/jsin_001">Задание JSON_001</a></h4> <br>
+<a href="https://kodaktor.ru/403c07c_153f0">JSON_001</a>
