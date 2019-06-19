@@ -33,3 +33,9 @@ Web-portfolio
 <a href="https://kodaktor.ru/startask_832d0">STARTASK</a>
 <h4><a href="https://kodaktor.ru/g/ips_task">Задание IPS_TASK</a></h4> <br>
 <a href="https://kodaktor.ru/startask_bbb1e">IPS_TASK</a>
+<h4><a href="https://kodaktor.ru/async_tasks">Задание ASYNC-TASKS</a></h4> <br>
+<a href="https://codepen.io/nastyauch/pen/jjMYdB">ASYNC-TASKS</a>
+<h4><a href="https://kodaktor.ru/bind02032018">Задание BABL_002</a></h4> <br>
+<a href="https://kodaktor.ru/bind02032018_f9684">BABL_002</a>
+<h4><a href="https://kodaktor.ru/evnt_002">Задание EVNT_002</a></h4> <br>
+<a href="https://kodaktor.ru/custom_de872">EVNT_002</a>
