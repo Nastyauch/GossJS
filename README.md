@@ -48,3 +48,5 @@ Web-portfolio
 <a href="https://kodaktor.ru/test_eca8f">FRMW_005</a>
 <h4><a href="https://kodaktor.ru/frmw_004">Задание FRMW_004</a></h4> <br>
 <a href="https://kodaktor.ru/frmw_ba2a9">FRMW_004</a>
+<h4><a href="https://kodaktor.ru/frmw_002">Задание FRMW_002</a></h4> <br>
+<a href="https://github.com/Nastyauch/frmw_002/tree/master/docs">FRMW_004</a>
