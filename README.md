@@ -39,3 +39,5 @@ Web-portfolio
 <a href="https://kodaktor.ru/bind02032018_f9684">BABL_002</a>
 <h4><a href="https://kodaktor.ru/evnt_002">Задание EVNT_002</a></h4> <br>
 <a href="https://kodaktor.ru/custom_de872">EVNT_002</a>
+<h4><a href="https://kodaktor.ru/evnt_002">Задание EVNT_002</a></h4> <br>
+<a href="https://kodaktor.ru/custom_de872">EVNT_002</a>
