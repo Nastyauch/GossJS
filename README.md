@@ -49,4 +49,5 @@ Web-portfolio
 <h4><a href="https://kodaktor.ru/frmw_004">Задание FRMW_004</a></h4> <br>
 <a href="https://kodaktor.ru/frmw_ba2a9">FRMW_004</a>
 <h4><a href="https://kodaktor.ru/frmw_002">Задание FRMW_002</a></h4> <br>
-<a href="https://github.com/Nastyauch/frmw_002/tree/master/docs">FRMW_004</a>
+<a href="https://github.com/Nastyauch/LabaVue2All">Код FRMW_002</a><br>
+<a href="https://nastyauch.github.io/LabaVue2">Githab pages FRMW_002</a>
